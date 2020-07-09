@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+
+I'm Chintan - Android/Kotlin developer. I make mobile apps.  
+When I’m not working, I volunteer and explore my passion for cooking..
 <!--
-**chintanrparmar/chintanrparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💬 Want to connect? 📫
+* Twitter: https://twitter.com/chintanrparmar
+* LinkedIn: https://www.linkedin.com/in/chintanrparmar/
