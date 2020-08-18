@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Chintan - Android/Kotlin developer. I make mobile apps.  
+I'm Chintan Parmar - Android/Kotlin developer. I make mobile apps.  
 When I’m not working, I volunteer and explore my passion for cooking..
 <!--
 Here are some ideas to get you started:
