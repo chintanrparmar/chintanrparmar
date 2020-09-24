@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 Want to connect? 📫
+* Portfolio: https://chintan.app
 * Twitter: https://twitter.com/chintanrparmar
 * LinkedIn: https://www.linkedin.com/in/chintanrparmar/
